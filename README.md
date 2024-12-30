@@ -68,7 +68,7 @@ Set up a security group for backend services like Elastic Cache, RDS, and Amazon
 Create individual backend services (RDS, Elastic Cache, Amazon MQ).
 Setting Up Elastic Beanstalk:
 
-Launch an Elastic Beanstalk environment for hosting the application.
+Launch an Elastic Beanstalk environment to host the application.
 Allow traffic between Beanstalk's security group and backend services.
 Backend Initialization:
 
